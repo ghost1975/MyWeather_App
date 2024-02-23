@@ -30,7 +30,7 @@ A simple weather App created using API from [OpenWeatherMap](https://openweather
    >Then replace `YOUR_API_KEY` with your own API key from OpenWeatherMap
 3. Clone the repo
    ```sh
-   git clone https://github.com/ghost1975/weather_app.git
+   git clone https://github.com/ghost1975/MyWeather_App.git
    ```
 4. Install all the packages by typing
    ```sh
