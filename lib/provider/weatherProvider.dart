@@ -12,7 +12,7 @@ import '../models/hourlyWeather.dart';
 import '../models/weather.dart';
 
 class WeatherProvider with ChangeNotifier {
-  String apiKey = '8da4df9695f55e41f31fb13a97529245';
+  String apiKey = 'Paste Your API Key Here';
   late Weather weather;
   late AdditionalWeatherData additionalWeatherData;
   LatLng? currentLocation;
