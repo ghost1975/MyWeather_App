@@ -15,7 +15,7 @@ A simple weather App created using API from [OpenWeatherMap](https://openweather
 - Automatically acquire user current location
 - Searchable location
 - Hourly weather information
-- 7 days weather information
+- 5 days weather information
 - Automatic theme change.</br>
       * from 6 am to 6 pm - light mode</br>
       * from 6 p.m. to 6 a.m. - dark mode</br>          
